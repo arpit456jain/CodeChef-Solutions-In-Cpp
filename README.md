@@ -1,6 +1,7 @@
 # CodeChef-Solutions-In-Cpp
 I will add solutions in cpp
 
+## Beginner
 |Name|Solution in Cpp|
 |---|---|
 |[ATM](https://www.codechef.com/problems/HS08TEST)|[click here](https://github.com/arpit456jain/CodeChef-Solutions-In-Cpp/blob/master/Beginner/ATM.cpp)||

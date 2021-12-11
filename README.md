@@ -13,3 +13,10 @@ I will add solutions in cpp
 | []() |[click here]()|
 | []() |[click here]()|
 | []() |[click here]()|
+
+<br><br>
+### GFG-11-Weeks-Workshop-on-Data-Structures-and-Algorithms in [Python](https://github.com/arpit456jain/gfg-11-Weeks-Workshop-on-DSA-in-Python)
+### GFG-11-Weeks-Workshop-on-Data-Structures-and-Algorithms in [C++](https://github.com/arpit456jain/gfg-11-Weeks-Workshop-on-DSA-in-CPP)
+### Need help in [DSA-Path-And-Important-Questions](https://github.com/arpit456jain/DSA-Path-And-Important-Questions)
+
+Show some ❤️&nbsp; by giving <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> to this repo
